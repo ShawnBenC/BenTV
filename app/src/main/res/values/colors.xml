@@ -26,9 +26,9 @@
     <color name="color_6C3D3D3D">#6c3d3d3d</color>
     <color name="color_BBFFFFFF">#BBFFFFFF</color>
     <color name="color_FFFFFF">#FFFFFFFF</color>
-    <color name="color_44000000">#44000000</color>
     <color name="color_02F8E2">#FFFFA200</color>
     <color name="color_123">#00000000</color>
+    <color name="color_1123">#66FFFFFF</color>
     <color name="color_1234">#FFFFFFFF</color>
     <color name="color_12345">#6A000000</color>
 </resources>
