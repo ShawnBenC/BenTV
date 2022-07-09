@@ -30,4 +30,5 @@
     <color name="color_02F8E2">#FFFFA200</color>
     <color name="color_123">#00000000</color>
     <color name="color_1234">#FFFFFFFF</color>
+    <color name="color_12345">#C1000000</color>
 </resources>
